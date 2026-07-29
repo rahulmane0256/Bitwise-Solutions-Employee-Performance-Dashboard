@@ -29,7 +29,8 @@ This project is an interactive Power BI dashboard created to analyze employee pe
 
 ## Dashboard Preview
 
-(Upload your dashboard screenshot here)
+<img width="632" height="344" alt="dashboard2" src="https://github.com/user-attachments/assets/84b40781-75a2-43e0-8d2c-55d7b577843f" />
+
 
 ## Note
 This project uses a fictional/sample dataset created for learning and portfolio purposes.
